@@ -18,8 +18,8 @@ username_field = driver.find_element('username')  # Replace with the actual name
 password_field = driver.find_element('password')  # Replace with the actual name of the password field
 
 # Replace 'your_username' and 'your_password' with your actual login credentials
-username = 'leroy'
-password = 'Ne_pass123'
+username = ''
+password = ''
 
 # Enter the username and password
 username_field.send_keys(username)
